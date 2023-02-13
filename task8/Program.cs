@@ -2,7 +2,7 @@
 
 int n = new Random().Next(10,100);
 
-Console.WriteLine("Число " +n);
+Console.WriteLine("Число: " +n);
 
 int a = n/10;
 int b = n%10;
